@@ -1,1 +1,10 @@
-ad
+apt update -y
+apt upgrade -y
+apt install sudo -y
+apt install apt-utils -y
+apt install docker -y
+apt install docker-compose -y
+apt install python3 -y
+apt install pip -y
+apt install nodejs -y
+
