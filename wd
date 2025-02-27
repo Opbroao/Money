@@ -17,3 +17,4 @@ apt install python3 -y
 apt install pip -y
 apt install nodejs -y
 apt install gpg -y
+apt install nano -y
